@@ -60,25 +60,49 @@ I enjoy turning complex technical problems into practical products, from AI-powe
 
 </div>
 
-## Selected Projects
+#
+## Featured Projects
 
-### [Permissionless Fee Routing](https://github.com/Emma66886/meterora_permissionless_fee_routing)
+A selection of products I've helped build across AI, developer tooling, SaaS, social growth, and payments.
 
-Solana infrastructure for routing fees from Meteora DAMM V2 pools, with investor distribution and Streamflow-managed vesting schedules.
+### [BuildArena](https://buildarena.dev/)
+A collaborative development platform that synchronizes the editor, canvas, and output across a shared workspace, with live visualizations of program structure.
 
-`Rust` `Solana` `DeFi` `Streamflow`
+`TypeScript` `AI Development Tools` `Collaboration`
 
-### [AI Coin Chat Agent](https://github.com/Emma66886/agent-challenge)
+### [Healthcare SaaS Platform](https://timglobal.uk/)
+A multi-tenant care platform featuring staff scheduling, capacity management, real-time messaging, and reporting for care operations.
 
-An AI-powered Solana token analysis agent built for the Nosana Builders Challenge, using tools, token data, and persistent memory.
+`Full-Stack` `SaaS` `Real-Time Systems`
 
-`TypeScript` `Mastra` `AI Agents` `Solana`
+### [Hookroast](https://hookroast.com/)
+An email deliverability platform for validating recipients, assessing spam risks, monitoring sender reputation, and checking SPF, DKIM, and DMARC configuration.
 
-### [Cryptrapay App](https://github.com/Emma66886/cryptrapay_app)
+`Next.js` `Node.js` `Email Infrastructure`
 
-A mobile cryptocurrency payments application supporting user and merchant payment experiences, including QR and NFC payment flows.
+### [MySocioRep](https://mysociorep.com/)
+A social media growth platform that helps founders, creators, and businesses manage content creation, publishing, and engagement across social platforms.
 
-`React Native` `Mobile` `Crypto Payments`
+`Next.js` `Node.js` `Fastify` `Social Media`
+
+### MyBizRunner
+A customer communication platform that brings conversations from WhatsApp, Telegram, Instagram, and email into one inbox, with automated lead qualification and follow-ups.
+
+`Full-Stack` `Integrations` `Workflow Automation`
+
+### [Cryptrapay](https://cryptrapay.com/)
+A payments and settlement platform with multi-currency wallets, merchant onboarding, transaction tracking, and reconciliation workflows.
+
+`Payments` `Fintech` `Backend Systems`
+
+---
+
+<div align="center">
+
+[Explore all my work](https://kinemcodes.com)
+
+</div>
+
 
 ---
 
