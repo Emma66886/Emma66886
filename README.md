@@ -3,59 +3,101 @@
 
 # Emmanuel Akinroye
 
-### Senior Full-Stack Engineer · AI Products · Web3 Infrastructure
+### Full-Stack Engineer | AI Products | Web3 Infrastructure
 
-I build reliable software products from idea to production, combining full-stack engineering with AI workflows and blockchain infrastructure.
+Building reliable products, intelligent workflows, and scalable systems.
 
-[Portfolio](https://kinemcodes.com) · [GitHub](https://github.com/Emma66886)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kinemcodes.com-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kinemcodes.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Emma66886-181717?style=for-the-badge&logo=github)](https://github.com/Emma66886)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a software engineer with **7+ years of full-stack development experience** and **4+ years building in Web3**. I enjoy solving practical product and infrastructure problems: from backend systems and integrations to on-chain applications and AI-powered tools.
+I'm a software engineer with **7+ years of full-stack development experience** and **4+ years building Web3 applications and infrastructure**.
 
-- **Product engineering:** Building and shipping web applications and APIs.
-- **AI engineering:** Integrating LLMs, agents, and intelligent workflows into useful products.
-- **Web3:** Working with Solana, Rust, Anchor, EVM ecosystems, DeFi, wallets, and blockchain integrations.
-- **Backend & infrastructure:** Designing services with TypeScript, Node.js, databases, queues, Docker, and cloud infrastructure.
+I enjoy turning complex technical problems into practical products, from AI-powered applications and backend platforms to blockchain integrations and DeFi systems.
 
-## Core Technologies
+- Building full-stack products from concept to production.
+- Integrating LLMs, AI agents, and intelligent workflows.
+- Developing Solana programs and EVM blockchain integrations.
+- Designing backend services, APIs, and reliable data systems.
 
-- **Languages:** TypeScript, JavaScript, Rust, Solidity
-- **Backend:** Node.js, NestJS, Fastify, REST APIs
-- **Frontend:** React, Next.js
-- **Web3:** Solana, Anchor, EVM, smart contracts, DeFi integrations
-- **Data & Infrastructure:** PostgreSQL, MongoDB, Redis, Docker, GitHub Actions
-- **AI:** LLM integrations, tool-calling, agent workflows
+## Tech Stack
 
-## Selected Work
+<div align="center">
 
-I build across AI-powered products, Web3 infrastructure, and full-stack platforms.
+**Languages**
 
-- **AI-powered products:** Agent workflows, intelligent automation, and AI product features.
-- **Web3 and DeFi infrastructure:** Blockchain integrations, wallet flows, token interactions, and on-chain tooling.
-- **Full-stack platforms:** Product interfaces, APIs, integrations, and production systems.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 
-Explore more of my work at [kinemcodes.com](https://kinemcodes.com).
+**Frontend & Backend**
 
-## What I Value
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 
-- Clear, maintainable code and pragmatic architecture.
-- Reliable systems, thoughtful APIs, and good developer experience.
-- Shipping useful features, learning quickly, and collaborating openly.
+**Blockchain & AI**
 
-## Connect
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![AI](https://img.shields.io/badge/AI_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
 
-- **Portfolio:** [kinemcodes.com](https://kinemcodes.com)
-- **GitHub:** [@Emma66886](https://github.com/Emma66886)
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+## Selected Projects
+
+### [Permissionless Fee Routing](https://github.com/Emma66886/meterora_permissionless_fee_routing)
+
+Solana infrastructure for routing fees from Meteora DAMM V2 pools, with investor distribution and Streamflow-managed vesting schedules.
+
+`Rust` `Solana` `DeFi` `Streamflow`
+
+### [AI Coin Chat Agent](https://github.com/Emma66886/agent-challenge)
+
+An AI-powered Solana token analysis agent built for the Nosana Builders Challenge, using tools, token data, and persistent memory.
+
+`TypeScript` `Mastra` `AI Agents` `Solana`
+
+### [Cryptrapay App](https://github.com/Emma66886/cryptrapay_app)
+
+A mobile cryptocurrency payments application supporting user and merchant payment experiences, including QR and NFC payment flows.
+
+`React Native` `Mobile` `Crypto Payments`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Emma66886&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emma66886&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used programming languages" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building useful things, one well-engineered system at a time.*
+**I enjoy building useful things and solving hard engineering problems.**
+
+[Portfolio](https://kinemcodes.com) · [GitHub Repositories](https://github.com/Emma66886?tab=repositories)
 
 </div>
